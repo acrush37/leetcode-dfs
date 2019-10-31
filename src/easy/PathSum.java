@@ -7,11 +7,16 @@ public class PathSum {
 
     public static void main(String... args) {
 
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.left.left = new TreeNode(3);
+        root.left.left.left = new TreeNode(4);
+        root.left.left.left.left = new TreeNode(5);
         PathSum pathSum = new PathSum();
-        System.out.println(pathSum.hasPathSum(null, 0));
+        System.out.println(pathSum.hasPathSum(root, 15));
     }
 
-    public class TreeNode {
+    static class TreeNode {
 
         int val;
         TreeNode left;
@@ -19,8 +24,23 @@ public class PathSum {
         TreeNode(int x) { val = x; }
     }
 
+    private boolean dfs(int sum, TreeNode root) {
+
+        if (root == null) return sum == 0;
+
+        if (root.left == null) {
+            return root.right == null ? sum == root.val : dfs(sum - root.val, root.right);
+        }
+
+        if (root.right == null) return dfs(sum - root.val, root.left);
+
+        return dfs(sum - root.val, root.left) || dfs(sum - root.val, root.right);
+    }
+
     public boolean hasPathSum(TreeNode root, int sum) {
-        return false;
+
+        if (root == null) return false;
+        return dfs(sum, root);
     }
 
 }

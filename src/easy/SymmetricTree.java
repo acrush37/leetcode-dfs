@@ -15,11 +15,18 @@ public class SymmetricTree {
 
     public static void main(String... args) {
 
+        TreeNode node = new TreeNode(1);
+        node.left = new TreeNode(2);
+        node.right = new TreeNode(2);
+        node.left.left = new TreeNode(3);
+        node.left.right = new TreeNode(4);
+        node.right.left = new TreeNode(4);
+        node.right.right = new TreeNode(3);
         SymmetricTree symmetricTree = new SymmetricTree();
-        System.out.println(symmetricTree.isSymmetric(null));
+        System.out.println(symmetricTree.isSymmetric(node));
     }
 
-    public class TreeNode {
+    static class TreeNode {
 
         int val;
         TreeNode left;
@@ -27,7 +34,16 @@ public class SymmetricTree {
         TreeNode(int x) { val = x; }
     }
 
+    private boolean dfs(TreeNode left, TreeNode right) {
+
+        if (left == null) return right == null;
+        if (right == null) return false;
+        return left.val == right.val && dfs(left.right, right.left) && dfs(right.right, left.left);
+    }
+
     public boolean isSymmetric(TreeNode root) {
-        return false;
+
+        if (root == null) return true;
+        return dfs(root.left, root.right);
     }
 }
