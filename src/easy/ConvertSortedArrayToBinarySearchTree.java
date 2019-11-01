@@ -1,5 +1,7 @@
 package easy;
 
+import java.util.Arrays;
+
 /*
     Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
 
@@ -14,7 +16,7 @@ public class ConvertSortedArrayToBinarySearchTree {
         System.out.println(convertSortedArrayToBinarySearchTree.sortedArrayToBST(nums));
     }
 
-    public class TreeNode {
+    static class TreeNode {
 
         int val;
         TreeNode left;
@@ -22,8 +24,20 @@ public class ConvertSortedArrayToBinarySearchTree {
         TreeNode(int x) { val = x; }
     }
 
+    private TreeNode dfs(int[] nums, int left, int right) {
+
+        int n = right - left;
+        if (n == 0) return null;
+        if (n == 1) return new TreeNode(nums[left]);
+        int middle = (left + right) >> 1;
+        TreeNode node = new TreeNode(nums[middle]);
+        node.left = dfs(nums, left, middle);
+        node.right = dfs(nums, middle+1, right);
+        return node;
+    }
+
     public TreeNode sortedArrayToBST(int[] nums) {
-        return null;
+        return dfs(nums, 0, nums.length);
     }
 
 }
