@@ -1,5 +1,7 @@
 package easy;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /*
@@ -12,21 +14,44 @@ import java.util.List;
  */
 public class EmployeeImportance {
 
+    private int result;
+
     public static void main(String... args) {
 
+        Employee employee1 = new Employee();
+        Employee employee2 = new Employee();
+        Employee employee3 = new Employee();
+        employee1.id = 1;
+        employee1.importance = 5;
+        employee1.subordinates = Arrays.asList(2, 3);
+        employee2.id = 2;
+        employee2.importance = 3;
+        employee3.id = 3;
+        employee3.importance = 3;
         EmployeeImportance employeeImportance = new EmployeeImportance();
-        System.out.println(employeeImportance.getImportance(null, 0));
+        System.out.println(employeeImportance.getImportance(Arrays.asList(employee1, employee2, employee3), 1));
     }
 
-    class Employee {
+    static class Employee {
 
         public int id;
         public int importance;
-        public List<Integer> subordinates;
+        public List<Integer> subordinates = new ArrayList<>();
+    }
+
+    private void dfs(Employee[] a, int id) {
+
+        result += a[id].importance;
+        for (int i : a[id].subordinates) dfs(a, i);
     }
 
     public int getImportance(List<Employee> employees, int id) {
-        return 0;
+
+        result = 0;
+        Employee[] a = new Employee[2001];
+        employees.forEach(i -> a[i.id] = i);
+        dfs(a, id);
+        return result;
     }
 
 }
