@@ -14,6 +14,10 @@ package easy;
  */
 public class FloodFill {
 
+    private boolean[][] t;
+    private static final int[] x = {-1, 1, 0, 0};
+    private static final int[] y = {0, 0, -1, 1};
+
     public static void main(String... args) {
 
         int[][] image = {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}};
@@ -21,8 +25,32 @@ public class FloodFill {
         System.out.println(floodFill.floodFill(image, 1, 1, 2));
     }
 
+    private void dfs(int[][] image, int sr, int sc, int m, int n, int p, int newColor) {
+
+        for (int i = 0; i < 4; i++) {
+
+            int u = sr + x[i];
+            int v = sc + y[i];
+            if (u < 0 || u >= m || v < 0 || v >= n) continue;
+
+            if (!t[u][v] && image[u][v] == p) {
+
+                t[u][v] = true;
+                image[u][v] = newColor;
+                dfs(image, u, v, m, n, p, newColor);
+            }
+        }
+    }
+
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
-        return null;
+
+        int m = image.length;
+        int n = image[0].length;
+        t = new boolean[m][n];
+        t[sr][sc] = true;
+        dfs(image, sr, sc, m, n, image[sr][sc], newColor);
+        image[sr][sc] = newColor;
+        return image;
     }
 
 }
