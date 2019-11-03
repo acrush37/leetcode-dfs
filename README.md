@@ -29,3 +29,4 @@ Depth First Search
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](src/medium/SumRootToLeafNumbers.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](src/medium/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](src/medium/PathSumII.java)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](src/medium/ValidateBinarySearchTree.java)|Medium|
