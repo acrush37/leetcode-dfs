@@ -22,5 +22,6 @@ Depth First Search
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](src/medium/IsGraphBipartite.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](src/medium/FindLargestValueInEachTreeRow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](src/medium/FindBottomLeftTreeValue.java)|Medium|
+|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](src/medium/IncreasingSubsequences.java)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](src/medium/SumRootToLeafNumbers.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](src/medium/PathSumII.java)|Medium|
