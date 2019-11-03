@@ -20,6 +20,7 @@ Depth First Search
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](src/medium/SmallestStringStartingFromLeaf.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](src/medium/KeysAndRooms.java)|Medium|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](src/medium/IsGraphBipartite.java)|Medium|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](src/medium/ZeroOneMatrix.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](src/medium/FindLargestValueInEachTreeRow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](src/medium/FindBottomLeftTreeValue.java)|Medium|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](src/medium/IncreasingSubsequences.java)|Medium|
