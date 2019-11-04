@@ -26,6 +26,7 @@ Depth First Search
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](src/medium/FindLargestValueInEachTreeRow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](src/medium/FindBottomLeftTreeValue.java)|Medium|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](src/medium/IncreasingSubsequences.java)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](src/medium/NumberOfIslands.java)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](src/medium/SumRootToLeafNumbers.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](src/medium/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](src/medium/PathSumII.java)|Medium|
