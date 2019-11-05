@@ -32,6 +32,7 @@ Depth First Search
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](src/medium/FindLargestValueInEachTreeRow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](src/medium/FindBottomLeftTreeValue.java)|Medium|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](src/medium/IncreasingSubsequences.java)|Medium|
+|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Java](src/medium/MatchsticksToSquare.java)|Medium|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Java](src/medium/FlattenMultilevelDoublyLinkedList.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](src/medium/DecodeString.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](src/medium/HouseRobberIII.java)|Medium|
