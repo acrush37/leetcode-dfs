@@ -42,6 +42,7 @@ Depth First Search
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Java](src/medium/CloneGraph.java)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](src/medium/SumRootToLeafNumbers.java)|Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](src/medium/PopulatingNextRightPointersInEachNodeII.java)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](src/medium/PopulatingNextRightPointersInEachNode.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](src/medium/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](src/medium/PathSumII.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](src/medium/ValidateBinarySearchTree.java)|Medium|
