@@ -22,6 +22,7 @@ Depth First Search
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Java](src/medium/MaximumDifferenceBetweenNodeAndAncestor.java)|Medium|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](src/medium/NumberOfEnclaves.java)|Medium|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](src/medium/SmallestStringStartingFromLeaf.java)|Medium|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Java](src/medium/ShortestBridge.java)|Medium|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](src/medium/PossibleBipartition.java)|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Java](src/medium/AllNodesDistanceKInBinaryTree.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](src/medium/KeysAndRooms.java)|Medium|
