@@ -25,6 +25,7 @@ Depth First Search
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Java](src/medium/AllNodesDistanceKInBinaryTree.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](src/medium/KeysAndRooms.java)|Medium|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](src/medium/IsGraphBipartite.java)|Medium|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Java](src/medium/NetworkDelayTime.java)|Medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](src/medium/MaxAreaOfIsland.java)|Medium|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](src/medium/FriendCircles.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](src/medium/ZeroOneMatrix.java)|Medium|
