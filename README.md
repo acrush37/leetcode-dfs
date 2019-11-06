@@ -50,4 +50,6 @@ Depth First Search
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](src/medium/PopulatingNextRightPointersInEachNode.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Java](src/medium/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](src/medium/PathSumII.java)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|Medium|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](src/medium/ValidateBinarySearchTree.java)|Medium|
