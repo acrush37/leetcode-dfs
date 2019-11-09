@@ -66,3 +66,4 @@ Depth First Search
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](src/medium/Permutations.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](src/medium/CombinationSumII.java)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/medium/CombinationSum.java)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](src/medium/GenerateParentheses.java)|Medium|
