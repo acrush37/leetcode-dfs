@@ -17,6 +17,7 @@ Depth First Search
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](src/easy/MaximumDepthOfBinaryTree.java)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](src/easy/SymmetricTree.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](src/easy/SameTree.java)|Easy|
+|1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](src/medium/PathWithMaximumGold.java)|Medium|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Java](src/medium/LowestCommonAncestorOfDeepestLeaves.java)|Medium|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Java](src/medium/DeleteNodesAndReturnForest.java)|Medium|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Java](src/medium/ColoringABorder.java)|Medium|
