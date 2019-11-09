@@ -5,6 +5,7 @@ Depth First Search
 |---| ----- | -------- | ---------- |
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](src/easy/IncreasingOrderSearchTree.java)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](src/easy/LeafSimilarTrees.java)|Easy|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Java](src/easy/LetterCasePermutation.java)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](src/easy/FloodFill.java)|Easy|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Java](src/easy/EmployeeImportance.java)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](src/easy/MaximumDepthOfNAryTree.java)|Easy|
