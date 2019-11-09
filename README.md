@@ -60,6 +60,7 @@ Depth First Search
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](src/medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](src/medium/ValidateBinarySearchTree.java)|Medium|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](src/medium/RestoreIPAddresses.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](src/medium/SubsetsII.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](src/medium/WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](src/medium/Subsets.java)|Medium|
