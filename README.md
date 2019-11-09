@@ -63,6 +63,7 @@ Depth First Search
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](src/medium/ValidateBinarySearchTree.java)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](src/medium/RestoreIPAddresses.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](src/medium/SubsetsII.java)|Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|[Java](src/medium/GrayCode.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](src/medium/WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](src/medium/Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](src/medium/Combinations.java)|Medium|
