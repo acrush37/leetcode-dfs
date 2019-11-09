@@ -68,3 +68,4 @@ Depth First Search
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](src/medium/CombinationSumII.java)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/medium/CombinationSum.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](src/medium/GenerateParentheses.java)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](src/medium/LetterCombinationsOfPhoneNumber.java)|Medium|
