@@ -35,6 +35,7 @@ Depth First Search
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](src/medium/MaxAreaOfIsland.java)|Medium|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](src/medium/FriendCircles.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](src/medium/ZeroOneMatrix.java)|Medium|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Java](src/medium/BeautifulArrangement.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](src/medium/FindLargestValueInEachTreeRow.java)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](src/medium/FindBottomLeftTreeValue.java)|Medium|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Java](src/medium/IncreasingSubsequences.java)|Medium|
