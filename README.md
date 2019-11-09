@@ -60,6 +60,7 @@ Depth First Search
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](src/medium/SubsetsII.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](src/medium/Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](src/medium/Combinations.java)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[Java](src/medium/PermutationSequence.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](src/medium/PermutationsII.java)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](src/medium/Permutations.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](src/medium/CombinationSumII.java)|Medium|
