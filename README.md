@@ -46,6 +46,7 @@ Depth First Search
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](src/medium/DecodeString.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](src/medium/HouseRobberIII.java)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Java](src/medium/ReconstructItinerary.java)|Medium|
+|306|[Additive Number](https://leetcode.com/problems/additive-number/)|[Java](src/medium/AdditiveNumber.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Java](src/medium/CombinationSumIII.java)|Medium|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Java](src/medium/AddAndSearchWord.java)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](src/medium/CourseScheduleII.java)|Medium|
