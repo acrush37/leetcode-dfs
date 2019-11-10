@@ -29,6 +29,7 @@ Depth First Search
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Java](src/medium/ShortestBridge.java)|Medium|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](src/medium/PossibleBipartition.java)|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Java](src/medium/AllNodesDistanceKInBinaryTree.java)|Medium|
+|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)|[Java](src/medium/SplitArrayIntoFibonacciSequence.java)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](src/medium/KeysAndRooms.java)|Medium|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](src/medium/FindEventualSafeStates.java)|Medium|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](src/medium/IsGraphBipartite.java)|Medium|
