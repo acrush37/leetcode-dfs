@@ -77,3 +77,4 @@ Depth First Search
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/medium/CombinationSum.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](src/medium/GenerateParentheses.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](src/medium/LetterCombinationsOfPhoneNumber.java)|Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
