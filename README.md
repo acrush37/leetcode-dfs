@@ -3,20 +3,9 @@ Depth First Search
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](src/easy/IncreasingOrderSearchTree.java)|Easy|
-|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](src/easy/LeafSimilarTrees.java)|Easy|
-|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Java](src/easy/LetterCasePermutation.java)|Easy|
-|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](src/easy/FloodFill.java)|Easy|
-|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Java](src/easy/EmployeeImportance.java)|Easy|
-|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](src/easy/MaximumDepthOfNAryTree.java)|Easy|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](src/easy/BinaryTreePaths.java)|Easy|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](src/easy/PathSum.java)|Easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](src/easy/MinimumDepthOfBinaryTree.java)|Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](src/easy/BalancedBinaryTree.java)|Easy|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](src/easy/ConvertSortedArrayToBinarySearchTree.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](src/easy/MaximumDepthOfBinaryTree.java)|Easy|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](src/easy/SymmetricTree.java)|Easy|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](src/easy/SameTree.java)|Easy|
+|679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](src/medium/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)|Medium|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](src/medium/PathWithMaximumGold.java)|Medium|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Java](src/medium/LowestCommonAncestorOfDeepestLeaves.java)|Medium|
@@ -77,5 +66,17 @@ Depth First Search
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/medium/CombinationSum.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](src/medium/GenerateParentheses.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](src/medium/LetterCombinationsOfPhoneNumber.java)|Medium|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](src/easy/IncreasingOrderSearchTree.java)|Easy|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](src/easy/LeafSimilarTrees.java)|Easy|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Java](src/easy/LetterCasePermutation.java)|Easy|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](src/easy/FloodFill.java)|Easy|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Java](src/easy/EmployeeImportance.java)|Easy|
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Java](src/easy/MaximumDepthOfNAryTree.java)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](src/easy/BinaryTreePaths.java)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](src/easy/PathSum.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](src/easy/MinimumDepthOfBinaryTree.java)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](src/easy/BalancedBinaryTree.java)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](src/easy/ConvertSortedArrayToBinarySearchTree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](src/easy/MaximumDepthOfBinaryTree.java)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](src/easy/SymmetricTree.java)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](src/easy/SameTree.java)|Easy|
