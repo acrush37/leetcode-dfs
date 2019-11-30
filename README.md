@@ -3,6 +3,7 @@ Depth First Search
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](src/hard/UniquePathsIII.java)|Hard|
 |679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
