@@ -5,6 +5,7 @@ Depth First Search
 |---| ----- | -------- | ---------- |
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](src/hard/UniquePathsIII.java)|Hard|
 |679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](src/hard/LongestIncreasingPathInMatrix.java)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](src/medium/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)|Medium|
