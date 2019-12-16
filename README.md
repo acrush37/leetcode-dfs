@@ -9,6 +9,7 @@ Depth First Search
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](src/hard/LongestIncreasingPathInMatrix.java)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
+|1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](src/medium/NumberOfClosedIslands.java)|Medium|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](src/medium/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)|Medium|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](src/medium/PathWithMaximumGold.java)|Medium|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Java](src/medium/LowestCommonAncestorOfDeepestLeaves.java)|Medium|
