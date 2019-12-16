@@ -4,6 +4,7 @@ Depth First Search
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](src/hard/UniquePathsIII.java)|Hard|
+|827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](src/hard/MakingLargeIsland.java)|Hard|
 |679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](src/hard/LongestIncreasingPathInMatrix.java)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
