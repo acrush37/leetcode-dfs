@@ -10,6 +10,7 @@ Depth First Search
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Java](src/medium/SequentialDigits.java)|Medium|
+|1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Java](src/medium/IteratorForCombination.java)|Medium|
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](src/medium/NumberOfClosedIslands.java)|Medium|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](src/medium/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)|Medium|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Java](src/medium/PathWithMaximumGold.java)|Medium|
