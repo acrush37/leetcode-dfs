@@ -51,7 +51,7 @@ public class VerbalArithmeticPuzzle {
         }
 
         for (int i = y; i <= z; i++)
-            if (b[x] == 0 && !t[i] && !f[x][i]) {
+            if (!t[i] && !f[x][i]) {
 
                 b[x] = i+1;
                 t[i] = true;
@@ -81,8 +81,8 @@ public class VerbalArithmeticPuzzle {
         char[] c = result.toCharArray();
         a[0][0] = c.length;
         if (a[0][0] != max && a[0][0] != max+1) return false;
-        if (a[0][0] != 1) f[a[0][1]][0] = true;
         for (int i = 1; i <= a[0][0]; i++) t.add(a[0][i] = c[i-1] - 65);
+        if (a[0][0] != 1) f[a[0][1]][0] = true;
         List<Integer> p = new ArrayList<>();
 
         if (a[0][0] == max+1) {
