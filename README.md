@@ -4,6 +4,7 @@ Depth First Search
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)|[Java](src/hard/VerbalArithmeticPuzzle.java)|Hard|
+|996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)|[Java](src/hard/NumberOfSquarefulArrays.java)|Hard|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](src/hard/UniquePathsIII.java)|Hard|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](src/hard/MakingLargeIsland.java)|Hard|
 |679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
