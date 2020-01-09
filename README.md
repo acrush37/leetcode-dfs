@@ -12,6 +12,7 @@ Depth First Search
 |679|[24 Game](https://leetcode.com/problems/24-game/)|[Java](src/hard/TwentyFourGame.java)|Hard|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](src/hard/LongestIncreasingPathInMatrix.java)|Hard|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](src/hard/WordSearchII.java)|Hard|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](src/hard/WordBreakII.java)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](src/hard/SudokuSolver.java)|Hard|
