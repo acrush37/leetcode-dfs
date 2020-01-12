@@ -16,6 +16,7 @@ Depth First Search
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](src/hard/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/hard/NQueens.java)|Hard|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](src/hard/SudokuSolver.java)|Hard|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Java](src/medium/SumOfNodesWithEvenValuedGrandparent.java)|Medium|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Java](src/medium/SequentialDigits.java)|Medium|
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Java](src/medium/IteratorForCombination.java)|Medium|
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](src/medium/NumberOfClosedIslands.java)|Medium|
