@@ -4,6 +4,7 @@ Depth First Search
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)|[Java](src/hard/VerbalArithmeticPuzzle.java)|Hard|
+|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Java](src/hard/CriticalConnectionsInNetwork.java)|Hard|
 |996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)|[Java](src/hard/NumberOfSquarefulArrays.java)|Hard|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Java](src/hard/UniquePathsIII.java)|Hard|
 |928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)|[Java](src/hard/MinimizeMalwareSpreadII.java)|Hard|
