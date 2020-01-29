@@ -26,7 +26,7 @@ public class CourseScheduleII {
         int[] path = new int[numCourses];
         int[] in = new int[numCourses];
         Set<Integer>[] s = new Set[numCourses];
-        Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new ArrayDeque<>();
         for (int i = 0; i < numCourses; i++) s[i] = new HashSet<>();
 
         for (int[] p : prerequisites) {

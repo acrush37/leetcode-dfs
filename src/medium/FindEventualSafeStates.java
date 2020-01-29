@@ -30,7 +30,7 @@ public class FindEventualSafeStates {
         if (n == 0) return list;
         int[] in = new int[n];
         Set<Integer>[] s = new Set[n];
-        Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new ArrayDeque<>();
         for (int i = 0; i < n; i++) s[i] = new HashSet<>();
 
         for (int i = 0; i < n; i++)
